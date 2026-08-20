@@ -6,7 +6,7 @@
 
 Este documento define los endpoints REST del sistema.
 
-La API está diseñada para:
+La API está diseñada para:  
 
 * ser simple
 * ser consistente
