@@ -4,7 +4,7 @@
 
 ## Objetivo
 
-Definir un proceso diario de trabajo para construir el MVP utilizando IA como desarrollador principal, manteniendo consistencia arquitectónica y velocidad de ejecución.
+Definir un proceso diario de trabajo para construir el MVP utilizando IA como desarrollador principal, manteniendo consistencia arquitectónica y velocidad de ejecución.  
 
 ---
 
